@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720601820720",
+    "firebase_url": "https://flash-chat-943be.firebaseio.com",
+    "project_id": "flash-chat-943be",
+    "storage_bucket": "flash-chat-943be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720601820720:android:47513bf74cf8895dd687f5",
+        "android_client_info": {
+          "package_name": "co.salah.taha.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720601820720-k8915b0ah4gbanq65m3pnjshth1oaqn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYK3lNV7TShWt6VA4e9FGxJRzz8pNuq-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720601820720-k8915b0ah4gbanq65m3pnjshth1oaqn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
